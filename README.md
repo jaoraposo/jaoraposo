@@ -106,21 +106,6 @@ Transformar ideias em sistemas, protótipos em negócios e código em solução.
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=joaovraposo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovraposo&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" 
-  />
-</p>
-
----
-
 ### ✍️ Em construção...
 
 Sigo em aprendizado constante, testando, errando e evoluindo.  
